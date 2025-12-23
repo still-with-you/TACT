@@ -85,10 +85,16 @@ Yejin Yoon, Yuri Son, Namyoung So, Minseo Kim, Minsoo Cho, Chanhee Park, Seungsh
 
 ## License
 
+## License
+
 TACT is derived from publicly available datasets, including SLURP and MultiWOZ.
 
 - The text portion of SLURP is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 - MultiWOZ is released under the MIT License.
 
-Accordingly, TACT is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-Users must provide appropriate attribution when using this dataset.
+Accordingly:
+
+- The **TACT dataset** is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+- All **code and scripts** in this repository are released under the **MIT License**.
+
+Users must provide appropriate attribution when using the dataset.
