@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this dataset/software, please cite it as below."
+title: "TACT: TOD-And-Chitchat Transition Dataset"
+type: dataset
+version: "1.0"
+date-released: "2025-12-23"
+repository-code: "https://github.com/HYU-NLP/TACT"
+url: "https://huggingface.co/datasets/HYU-NLP/TACT"
+license: "CC-BY-4.0"
+authors:
+  - family-names: "Yoon"
+    given-names: "Yejin"
+  - family-names: "Son"
+    given-names: "Yuri"
+  - family-names: "So"
+    given-names: "Namyoung"
+  - family-names: "Kim"
+    given-names: "Minseo"
+  - family-names: "Cho"
+    given-names: "Minsoo"
+  - family-names: "Park"
+    given-names: "Chanhee"
+  - family-names: "Lee"
+    given-names: "Seungshin"
+  - family-names: "Kim"
+    given-names: "Taeuk"
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents"
+  authors:
+    - family-names: "Yoon"
+      given-names: "Yejin"
+    - family-names: "Son"
+      given-names: "Yuri"
+    - family-names: "So"
+      given-names: "Namyoung"
+    - family-names: "Kim"
+      given-names: "Minseo"
+    - family-names: "Cho"
+      given-names: "Minsoo"
+    - family-names: "Park"
+      given-names: "Chanhee"
+    - family-names: "Lee"
+      given-names: "Seungshin"
+    - family-names: "Kim"
+      given-names: "Taeuk"
+  year: 2025
+  month: 11
+  conference:
+    name: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing"
+    location: "Suzhou, China"
+  publisher: "Association for Computational Linguistics"
+  start: 13291
+  end: 13317
+  doi: "10.18653/v1/2025.emnlp-main.672"
+  url: "https://aclanthology.org/2025.emnlp-main.672/"
