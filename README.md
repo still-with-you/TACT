@@ -61,18 +61,8 @@ Conversational agents have traditionally been developed for either task-oriented
 ```{bibtex}
 @inproceedings{yoon-etal-2025-beyond,
     title = "Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents",
-    author = "Yoon, Yejin  and
-      Son, Yuri  and
-      So, Namyoung  and
-      Kim, Minseo  and
-      Cho, Minsoo  and
-      Park, Chanhee  and
-      Lee, Seungshin  and
-      Kim, Taeuk",
-    editor = "Christodoulopoulos, Christos  and
-      Chakraborty, Tanmoy  and
-      Rose, Carolyn  and
-      Peng, Violet",
+    author = "Yoon, Yejin  and  Son, Yuri  and  So, Namyoung  and  Kim, Minseo  and  Cho, Minsoo  and  Park, Chanhee  and  Lee, Seungshin  and  Kim, Taeuk",
+    editor = "Christodoulopoulos, Christos  and  Chakraborty, Tanmoy  and  Rose, Carolyn  and  Peng, Violet",
     booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
     month = nov,
     year = "2025",
