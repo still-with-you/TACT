@@ -2,10 +2,10 @@
 
 <div align=center>
   <img alt="Static Badge" src="https://img.shields.io/badge/TACT-1.0-blue">
+  <a href="https://still-with-you.github.io/pages/tact/" target="_blank"><img alt="Project Page" src="https://img.shields.io/badge/Project_Page-Visit-teal"></a>
   <img alt="GitHub License" src="https://img.shields.io/github/license/HYU-NLP/TACT">
   <img alt="Github Created At" src="https://img.shields.io/github/created-at/HYU-NLP/TACT">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HYU-NLP/TACT">
-  <a href="https://still-with-you.github.io/pages/tact/" target="_blank"><img alt="Project Page" src="https://img.shields.io/badge/Project_Page-Visit-blue"></a>
   <br>
 </div>
 
