@@ -5,13 +5,13 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/HYU-NLP/TACT">
   <img alt="Github Created At" src="https://img.shields.io/github/created-at/HYU-NLP/TACT">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HYU-NLP/TACT">
-  <a href="https://still-with-you.github.io/page/tact/" target="_blank"><img alt="Project Page" src="https://img.shields.io/badge/Project_Page-Visit-blue"></a>
+  <a href="https://still-with-you.github.io/pages/tact/" target="_blank"><img alt="Project Page" src="https://img.shields.io/badge/Project_Page-Visit-blue"></a>
   <br>
 </div>
 
 #### Official Repository for "Beyond Task-Oriented and Chitchat Dialogues: Proactive and Transition-Aware Conversational Agents."
 <div align="center">
-  <a href="https://still-with-you.github.io/page/tact/">Project Page</a> ·
+  <a href="https://still-with-you.github.io/pages/tact/">Project Page</a> ·
   <a href="https://aclanthology.org/2025.emnlp-main.672/">Paper (ACL Anthology)</a> ·
   <a href="https://arxiv.org/abs/2511.08835">Paper (arXiv)</a>
 </div>
